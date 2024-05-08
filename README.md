@@ -1,4 +1,6 @@
 # lays-chips-clone
+Hello!
+This is Wahaj >
 I cloned this website to practice my HTML and CSS skills, and to learn more about responsive design. I am pleased with the results, and I think this website is a good example of what can be achieved with HTML and CSS.
 
 I used the following HTML and CSS techniques to create this website:
